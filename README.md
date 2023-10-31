@@ -1,2 +1,2 @@
-# latihangithup
-latihan git hub bersama
+# Portofolio Zaidan
+latihan Portofolio
